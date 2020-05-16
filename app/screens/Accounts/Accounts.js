@@ -7,9 +7,8 @@ import UserLogged from "./UserLogged";
 export default function Accounts() {
 
     const[loggin,setlogin] = useState(null);
-
-    useEffect 
-
+ 
+   // useEffect 
     return (
         <View>
             <Text>
