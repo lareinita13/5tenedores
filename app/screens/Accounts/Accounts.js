@@ -8,7 +8,8 @@ export default function Accounts() {
 
     const[loggin,setlogin] = useState(null);
  
-   // useEffect 
+   // useEffect 2
+   
     return (
         <View>
             <Text>
